@@ -1,0 +1,59 @@
+﻿/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: linear-gradient(to bottom, #3D88E5, #FFFFFF);
+    color: #333;
+}
+
+
+/* Estilos del encabezado */
+header {
+    background: white;
+    padding: 20px;
+}
+
+
+.logo {
+    width: 150px;
+}
+
+
+/* Título principal */
+h1 {
+    color: #2F9E44;
+}
+
+
+/* Estilos del video */
+.video-container {
+    margin: 20px auto;
+    max-width: 80%;
+}
+
+
+video {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+/* Botón de contacto */
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 20px;
+    font-size: 18px;
+    background: #2F9E44;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+
+.btn:hover {
+    background: #237a34;
+}
